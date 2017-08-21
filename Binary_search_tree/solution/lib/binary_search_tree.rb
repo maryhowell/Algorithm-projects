@@ -67,6 +67,8 @@ class BinarySearchTree
     false
   end
 
+# if you want to do the interview questions you change the ordering of
+# this to make that it does post and pre order 
   def in_order_traversal(tree_node = @root, arr = [])
     # left children, itself, right children
     if tree_node.left
