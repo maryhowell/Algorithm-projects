@@ -27,3 +27,5 @@
 * leetcode
 
 * pramp - match you with someone at same level. Practice technical interviews
+* outreachy.org 3 month internship
+* out of office hours 
